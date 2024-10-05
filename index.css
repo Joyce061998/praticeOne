@@ -1,3 +1,13 @@
 body{
     background-image: url('chibi1.jpg');
+    
   }
+
+  h1{
+    background-color: Brown;
+  }
+
+  p {
+    text-align: center;
+    color: red;
+  } 
